@@ -66,6 +66,7 @@ Tools for improving warehouse efficiency, forecasting demand, and optimizing wor
 - [Tableau](https://www.tableau.com/) — Data visualization platform used for warehouse analytics.
 - [Power BI](https://powerbi.microsoft.com/) — Business analytics platform for reporting and insights.
 - [Netstock](https://www.netstock.com/) — Inventory optimization and demand planning platform.
+- [Packrift Packaging Fit Lab](https://packrift.github.io/packaging-fit-lab/) — Free packaging fit and fulfillment-planning tool for dimensional weight, carton fit, and SKU-level package recommendations.
 
 ## Related Awesome Lists
 
